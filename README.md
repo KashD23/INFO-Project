@@ -1,4 +1,6 @@
-"# INFO-Project" 
+# INFO-Project
+Akash 
+100384899
 ## Sortable Array Project
 
 ### Features
